@@ -1,0 +1,17 @@
+Molecular Mechanisms of Muscle Contractility
+
+ClinVar Variant Summary
+
+Gene symbol: BAG3  
+NCBI Gene ID: 9531  
+ClinVar Variation ID: 5981  
+Transcript accession: NM_004281.4  
+Nucleotide change: c.626C>T  
+Protein change: NP_004272.2:p.Pro209Leu  
+Variant type: Missense variant  
+Clinical significance: Pathogenic  
+Review status: Criteria provided, multiple submitters, no conflicts  
+Associated conditions: Myofibrillar myopathy 6; other BAG3-related conditions are listed in ClinVar.  
+Supporting publications: PMID 19085932; 21898660; 34117258  
+Database: https://www.ncbi.nlm.nih.gov/clinvar/variation/5981/  
+Access date: October 28, 2026
