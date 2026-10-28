@@ -117,7 +117,7 @@ This figure identifies the assigned variant position in the BAG3 protein sequenc
 
 ## Figure 3. Predicted BAG3 Protein Structure
 
-![Predicted BAG3 protein structure](figures/03_BAG3_structure.png)
+![Predicted BAG3 protein structure](figures/03_BAG3_structure.png.png)
 
 This figure documents the AlphaFold-predicted structure of BAG3. The model has low overall confidence and is not an experimentally determined structure.
 
