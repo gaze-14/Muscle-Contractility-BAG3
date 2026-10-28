@@ -1,4 +1,0 @@
-Gene symbol: BAG3
-NCBI Gene ID: 9531
-Official name: BAG cochaperone 3
-Chromosome: 10
